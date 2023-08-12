@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369237157627-l91n6is65bhq1s9gd2fq31m54tpksg5p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369237157627-l91n6is65bhq1s9gd2fq31m54tpksg5p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8325V_EUX9Bw9UhLmZ3gYqrBT9atG2Zc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369237157627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.easypisy</string>
+	<key>PROJECT_ID</key>
+	<string>easypisy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>easypisy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369237157627:ios:e94610ac97ae83db42725e</string>
+</dict>
+</plist>
